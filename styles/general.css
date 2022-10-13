@@ -8,5 +8,13 @@ html{
 
 body{
     font-family: 'Rubik', sans-serif;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
+}
+
+h1{
+    color: var(--very-dark-desaturated-violet);
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 20px;
+    
 }
